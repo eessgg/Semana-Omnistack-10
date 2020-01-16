@@ -1,3 +1,5 @@
-## Semana OmniStack 10.0 / RockeSeat  
+## Semana OmniStack 10.0 / RockeSeat  🚀🚀🚀
 
-App DevRadar(em progresso...)# Semana-Omnistack-10
+📌 App DevRadar(em progresso...)
+
+📌# Semana-Omnistack-10
